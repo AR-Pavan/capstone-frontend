@@ -1,0 +1,61 @@
+#profile{
+    background-color: rgb(98, 98, 245);
+    color: white;
+    font-weight: bold;
+    float: right;
+    margin-top: 15px;
+    margin-right: 20px;
+     /* margin-left: 900px; */
+}
+#maincard{
+    margin-top: 25px;
+    margin-right: 25px;
+}
+
+Link{
+    text-decoration: none;
+}
+
+#tbtn{
+    font-weight: bold;
+    margin-right: 6px;
+}
+
+#namehead{
+    background-color: rgb(98, 98, 245);
+    color: white;
+    width: 40%;
+    height: 35px;
+    font-weight: bold;
+    margin-left: 250px;
+}
+
+#ratebtn{
+    color: black;
+    font-weight: bold;
+}
+
+#cardcontainer{
+    display: flex;
+    flex-wrap: wrap;
+ }
+
+Link{
+    text-decoration: none;
+}
+
+#taskcard{
+    background-color:  rgb(98, 98, 245);
+    color: white;
+    font-weight: bold;
+}
+
+.tpbar{
+    height: 70px;
+    box-shadow: 1px 0px 3px gray;
+    margin-bottom: 15px;
+ }
+
+ #accordionSidebar{
+     height: 100%;
+ }
