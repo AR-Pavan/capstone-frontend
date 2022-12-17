@@ -1,1 +1,1 @@
-export const API = "https://capstone-student-dashboard-app.herokuapp.com";
+export const API = "https://capstone-backend-53hi.onrender.com";
