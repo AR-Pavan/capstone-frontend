@@ -1,3 +1,34 @@
+<!-- Description -->
+## Description
+
+This project is Front-End part of Student Dashboard where student can register,login,give attendance,submit the assignments,check his score and attendance.
+
+Used Axios,Chart.js
+
+<!-- Links -->
+## Links
+Back-End Part - https://github.com/AR-Pavan/capstone-backend
+
+Deployed Site - https://zenclass-capstone-project.netlify.app/
+
+```text
+Note:
+CREDENTIALS
+Username : testuser@gmail.com
+Password : testuser123
+```
+
+<!-- CONTACT -->
+
+## Contact
+
+Annam Raghu Pavan - raghupavanannam@gmail.com
+
+Portfolio - https://raghupavan-annam-portfolio.netlify.app/
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
